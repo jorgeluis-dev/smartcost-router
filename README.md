@@ -65,7 +65,7 @@ project/
 
 ## How to Run
 
-```text
+```bash
 pip install -r requirements.txt
 python app.py
 ```
